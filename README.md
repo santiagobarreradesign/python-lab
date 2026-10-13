@@ -23,7 +23,7 @@ https://github.com/Asabeneh/30-Days-Of-Python
 | 05 | Lists | Done |
 | 06 | Tuples | Done |
 | 07 | Sets | Done |
-| 08 | Dictionaries | — |
+| 08 | Dictionaries | Done |
 | 09 | Conditionals | — |
 | 10 | Loops | — |
 | 11 | Functions | — |
@@ -62,4 +62,4 @@ https://github.com/Asabeneh/30-Days-Of-Python
 
 ## Current session
 
-Next: Session 08 — Dictionaries
+Next: Session 09 — Conditionals
