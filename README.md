@@ -22,7 +22,7 @@ https://github.com/Asabeneh/30-Days-Of-Python
 | 04 | Strings | Done |
 | 05 | Lists | Done |
 | 06 | Tuples | Done |
-| 07 | Sets | In progress |
+| 07 | Sets | Done |
 | 08 | Dictionaries | — |
 | 09 | Conditionals | — |
 | 10 | Loops | — |
@@ -62,4 +62,4 @@ https://github.com/Asabeneh/30-Days-Of-Python
 
 ## Current session
 
-Session 07 — Sets (`sessions/07-sets.md`)
+Next: Session 08 — Dictionaries
