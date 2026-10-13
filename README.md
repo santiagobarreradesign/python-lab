@@ -24,7 +24,7 @@ https://github.com/Asabeneh/30-Days-Of-Python
 | 06 | Tuples | Done |
 | 07 | Sets | Done |
 | 08 | Dictionaries | Done |
-| 09 | Conditionals | — |
+| 09 | Conditionals | In progress |
 | 10 | Loops | — |
 | 11 | Functions | — |
 | 12 | Modules | — |
@@ -62,4 +62,4 @@ https://github.com/Asabeneh/30-Days-Of-Python
 
 ## Current session
 
-Next: Session 09 — Conditionals
+Session 09 — Conditionals (`sessions/09-conditionals.md`)
