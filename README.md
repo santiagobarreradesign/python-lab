@@ -25,7 +25,7 @@ https://github.com/Asabeneh/30-Days-Of-Python
 | 07 | Sets | Done |
 | 08 | Dictionaries | Done |
 | 09 | Conditionals | Done |
-| 10 | Loops | — |
+| 10 | Loops | Done |
 | 11 | Functions | — |
 | 12 | Modules | — |
 | 13 | List comprehension | — |
@@ -62,4 +62,4 @@ https://github.com/Asabeneh/30-Days-Of-Python
 
 ## Current session
 
-Next: Session 10 — Loops
+Next: Session 11 — Functions
